@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfy102
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning arduino based automation.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source industrial automation.
 - 
 
 <!---
