@@ -1,6 +1,6 @@
 ## Hi 👋, I'm [Aliff Syazwan!](https://github.com/Alfy102/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliffsyazwan/)
 
 ### Welcome to my Github Page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Alfy102.Alfy102&style=flat-square&color=0088cc)
 
