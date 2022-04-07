@@ -14,7 +14,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Alfy102).
 - 💻 &nbsp; Some projects are privated due to confidential reasons.
 - 📫 &nbsp; How to reach me: aliffsyazwansalim@gmail.com or aliff102.syazwan@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Alfy102/Alfy102/blob/main/Resume-Mohd-Aliff-Syazwan-bin-Mohd-Salim.pdf).
+
 
 ### My Absolute Favorites:
 
